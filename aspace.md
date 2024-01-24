@@ -2,98 +2,144 @@
 #### [Made by Bleakley McDowell]
 
 
-1\. Click "Browse "
+### 1\. 
+- Click "Browse "
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/fce23fed-ff18-4837-ac50-cc20a470b689/ascreenshot.jpeg?tl_px=0,0&br_px=1719,961&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=143,236)
 
+---
+---
 
-2\. Click "Resources"
+
+### 2\. 
+- Click "Resources"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/4ff99044-dc5e-4ea4-9681-8c93be883caa/ascreenshot.jpeg?tl_px=0,77&br_px=1719,1038&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=143,277)
 
+---
+---
 
-3\. Scroll to the audio-visual collection and Click "Edit"
+### 3\. 
+- Scroll to the audio-visual collection and Click "Edit"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/679d8f95-8176-460e-a069-2f2f189746df/ascreenshot.jpeg?tl_px=1160,838&br_px=2880,1799&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=1000,394)
 
+---
+---
 
-4\. In this example, we are creating a record for a tape recording of show #1003 from season 1 of the Ebony/Jet Showcase. 
+### 4\. 
+- In this example, we are creating a record for a tape recording of show #1003 from season 1 of the Ebony/Jet Showcase. 
 
-Click "Ebony/Jet Showcase, TV program"
+- Click "Ebony/Jet Showcase, TV program"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/e90f6def-21ec-46f2-a976-2920650bc0c6/ascreenshot.jpeg?tl_px=0,254&br_px=1719,1215&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=189,277)
 
+---
+---
 
-5\. Click "Ebony/Jet Showcase, season 1"
+### 5\. 
+- Click "Ebony/Jet Showcase, season 1"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/116afd1a-49d3-4059-ad55-fcf297925e6a/ascreenshot.jpeg?tl_px=0,306&br_px=1719,1267&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=195,277)
 
+---
+---
 
-6\. Click "Ebony/Jet Showcase: show #1001"
+### 6\. 
+- Click "Ebony/Jet Showcase: show #1001"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/d2dd4412-13ce-4e20-b51d-65bda02b64b0/ascreenshot.jpeg?tl_px=0,262&br_px=1719,1223&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=241,277)
 
+---
+---
 
-7\. Click "Add Child"
+### 7\. 
+- Click "Add Child"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/184869bd-11b5-4b19-b3b1-ff12e98be494/ascreenshot.jpeg?tl_px=0,115&br_px=1719,1076&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=251,277)
 
+---
+---
 
-8\. Enter the title. In this example the titles is "Ebony/Jet Showcase: show #1003"
+### 8\. 
+- Enter the title. 
+- In this example the titles is "Ebony/Jet Showcase: show #1003"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/6a598f33-89ad-4870-b21b-e50e827a48c1/ascreenshot.jpeg?tl_px=405,668&br_px=2125,1629&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,276)
 
+---
+---
 
-9\. Individual tapes are described at the item level. In the "Level of Description" field, click the dropdown and choose "Item"
+### 9\. 
+- Individual tapes are described at the item level. 
+- In the "Level of Description" field, click the dropdown and choose "Item"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/3cf4393e-06d8-4f8d-9be4-e51113d77c67/ascreenshot.jpeg?tl_px=447,838&br_px=2167,1799&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,423)
 
 
-10\. Each item-level record needs at least one date. Click "Add Date"
+### 10\. 
+- Each item-level record needs at least one date.
+- Click "Add Date"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/d65f7093-1a7b-4a46-9fdd-1b0f2114babb/ascreenshot.jpeg?tl_px=1160,593&br_px=2880,1554&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=901,277)
 
 
-11\. An item-level record (a tape) can have a broadcast date, a creation date, or both. Don't use "Publication". Let's enter a broadcast date. In the "Label" field, click the dropdown and choose "Broadcast"
+### 11\. 
+- An item-level record (a tape) can have a broadcast date, a creation date, or both. 
+- Don't use "Publication". Let's enter a broadcast date. 
+- In the "Label" field, click the dropdown and choose "Broadcast"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/d051e859-236e-4495-80a9-2e947c9d126c/ascreenshot.jpeg?tl_px=714,744&br_px=2434,1705&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,276)
 
 
-12\. For the Ebony/Jet Showcase, use the first date of broadcast. This date will be the same as the date in for the Sub-Series level of which the tape is a Child.
-
-In the "Type" field dropdown, choose "Single". Item level records in the "Ebony/Jet Showcase" Series will not use "Inclusive Dates".
+### 12\. 
+- For the Ebony/Jet Showcase, use the first date of broadcast. 
+- This date will be the same as the date in for the Sub-Series level of which the tape is a Child.
+- In the "Type" field dropdown, choose "Single". 
+- Item level records in the "Ebony/Jet Showcase" Series will not use "Inclusive Dates".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/aabf95e1-3531-4242-8562-6cb351023ca3/ascreenshot.jpeg?tl_px=576,838&br_px=2296,1799&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,392)
 
 
-13\. Enter the broadcast date. If there is direct evidence that the tape was broadcast on a different date, e.g. perhaps this is a shortened cut of the original show that was broadcast for a special occasion, enter that date here.
-
-Direct evidence will be such things as a slate indicating the broadcast date or metadata on the tape, case or associated ephemera.
+### 13\. 
+- Enter the broadcast date. 
+- If there is direct evidence that the tape was broadcast on a different date, e.g. perhaps this is a shortened cut of the original show that was broadcast for a special occasion, enter that date here.
+- Direct evidence will be such things as a slate indicating the broadcast date or metadata on the tape, case or associated ephemera.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/c7bb5a01-b0a2-49a8-87fa-3d5e530fe35b/ascreenshot.jpeg?tl_px=653,717&br_px=2373,1678&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,276)
 
 
-14\. Let's also add a creation date. Click "Add Date" again.
+### 14\. 
+- Let's also add a creation date. 
+- Click "Add Date" again.
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/cf7a09a0-4d28-43c9-b389-b833ec6db451/ascreenshot.jpeg?tl_px=1160,309&br_px=2880,1270&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=901,277)
 
 
-15\. For the "Label" choose "Creation" and for the "Type" again choose "Single".
+### 15\. 
+- For the "Label" choose "Creation" and for the "Type" again choose "Single".
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/1cb4c82a-66b5-468f-b816-158af3bf85c9/ascreenshot.jpeg?tl_px=536,838&br_px=2256,1799&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,336)
 
 
-16\. Enter the creation date the same way the broadcast date was entered. Creation dates, when known, will indicate when the recoding was made or assembled. This is particularly important for interviews and final shows. For interviews the creation date will be when the interview was recorded; for shows it will be when the final cut was created. Upwards of 6 months could pass between the date an interview was recorded or a show edit locked and the date when a show was then broadcast. 
+### 16\. 
+- Enter the creation date the same way the broadcast date was entered. 
+- Creation dates, when known, will indicate when the recoding was made or assembled. 
+- This is particularly important for interviews and final shows. 
+- For interviews the creation date will be when the interview was recorded; for shows it will be when the final cut was created. 
+- Upwards of 6 months could pass between the date an interview was recorded or a show edit locked and the date when a show was then broadcast. 
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/efc45123-efa8-4041-a2d2-757c012923cb/ascreenshot.jpeg?tl_px=471,563&br_px=2191,1524&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,277)
 
 
-17\. Click "Add Extent"
+### 17\. 
+- Click "Add Extent"
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/6a920d1b-ad31-4eb5-91bf-29497175f23f/ascreenshot.jpeg?tl_px=1160,257&br_px=2880,1218&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=904,277)
 
 
-18\. Click this text field
+### 18\. 
+- Click this text field
 
 ![](https://ajeuwbhvhr.cloudimg.io/colony-recorder.s3.amazonaws.com/files/2024-01-24/4a495776-7d10-47a2-a153-f22ff19e962e/ascreenshot.jpeg?tl_px=655,439&br_px=2375,1400&force_format=png&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=524,276)
 
